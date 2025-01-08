@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a student of systems analysis and development - T.I<br>- Back-end Developer<br>- Studying English<br>- Brazilian Army Corporal</p>
+<p align="left">I'm a student of systems analysis and development - T.I<br>- Full Stack Developer<br>- Studying English<br>- Brazilian Army Corporal</p>
 
 ###
 
