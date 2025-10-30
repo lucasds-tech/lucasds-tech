@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a student of systems analysis and development - T.I<br>- Back-end Developer<br>- Studying English<br>- Former Military Corporal of the Brazilian Army.</p>
+<p align="left">I'm a student of systems analysis and development - T.I<br>- Backend Developer at @F1RST Digital Services <br>- Studying English<br>- Former Military Corporal of the Brazilian Army</p>
 
 ###
 
@@ -28,7 +28,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -40,17 +40,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=gherkin" height="40" alt="gherkin logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
 ###
