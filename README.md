@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a student of systems analysis and development - T.I<br>- Backend Developer at @F1RST Digital Services <br>- Studying English<br>- Former Military Corporal of the Brazilian Army</p>
+<p align="left">🌐 I'm a systems analysis and development student - T.I<br>- Backend Developer at @F1RST Digital Services <br>- Blockchain Developer in training<br>- Studying English<br>- Former military corporal of the Brazilian Army</p>
 
 ###
 
